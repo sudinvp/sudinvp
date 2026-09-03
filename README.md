@@ -37,10 +37,8 @@ My repositories follow consistent coding and formatting practices appropriate to
 - **Java** — standard Java naming conventions, readable structure, and object-oriented design principles.
 
 ## GitHub stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudinvp&show_icons=true&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats.nyc3.digitalocean.app/?user=sudinvp)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sudinvp&theme=default)
 
 ## Currently working on
 
