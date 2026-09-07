@@ -3,7 +3,7 @@
 > Software Engineer focused on building full-stack web applications with Java, Spring Boot, React.js, Python, REST APIs, and SQL.
 
 **Currently:**  
-Software Engineer / Java Full-Stack Developer  
+Software Engineer / Full-Stack Developer  
 Open to opportunities in **Bengaluru and across India**
 
 ## About me
