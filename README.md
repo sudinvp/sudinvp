@@ -1,9 +1,9 @@
 # Hi, I'm Sudin V P 👋
 
-> Full-Stack Developer focused on building web applications with Java, Spring Boot, React.js, Python, REST APIs, SQL, and AI technologies.
+> Software Developer focused on building web applications with Java, Spring Boot, React.js, Python, REST APIs, SQL, and AI technologies.
 
 **Currently:**  
-Full-Stack Developer | Java & Python  
+Software Developer | Java & Python  
 Open to opportunities in **Bengaluru and across India**
 
 ## About me
